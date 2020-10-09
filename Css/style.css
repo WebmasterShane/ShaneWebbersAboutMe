@@ -32,11 +32,6 @@ img {
     color: white;
 }
 
-#stroke {
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
-    text-shadow: 4px 4px 10px dimgray;
-}
 
 p {
     font-size: larger;
@@ -55,20 +50,3 @@ h3{
     -webkit-text-stroke-width: 1px;
 }
 
-@media screen and (max-width: 768px) { 
-    p {
-        font-size: small;
-        font-weight: bolder;
-    }
-
-    h3{
-        font-size: smaller;
-    }
-
-    #stroke {
-        -webkit-text-stroke-width: 0;
-        -webkit-text-stroke-color: black;
-        text-shadow: 4px 4px 10px dimgray;
-    }
-
-}
