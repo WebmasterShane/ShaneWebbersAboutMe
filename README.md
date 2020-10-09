@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Shane Webbers Portfolio Website
 
 This is a portfolio designed for my self to reflect who i am and what work i have done in the past.
